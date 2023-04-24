@@ -46,7 +46,6 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Adobe Xd" **alt="Adobe Xd" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" title="Adonis.js" **alt="Adonis.js" width="40" height="40"/>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" **alt="BitBucket" width="40" height="40"/>
